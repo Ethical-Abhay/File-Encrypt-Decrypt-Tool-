@@ -2,7 +2,7 @@
 # 📸 Project Screenshots
 
 ## ✅ 1. Key Generation
-![Key Generation](Screenshot%202025-06-05%20183347.png)
+![Key Generation](Screenshot%2025-06-06%061432.png)
 
 ## 🔐 2. File Encryption
 ![File Encryption](Screenshot%202025-06-05%20225900.png)
